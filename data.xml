@@ -1,0 +1,14 @@
+<inbox>
+<message>
+<from>ahmad@example.com</from>
+<to>fadi@example.com</to>
+<subject>Hello World!</subject>
+<body>How are you?</body>
+</message>
+<message>
+<from>fadi@example.com</from>
+<to>ahmad@example.com</to>
+<subject>re: Hello World!</subject>
+<body>I’m fine!</body>
+</message>
+</inbox>
